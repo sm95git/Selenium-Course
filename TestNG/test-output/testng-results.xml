@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-30T16:30:07 IST" name="Default suite" finished-at="2023-11-30T16:30:07 IST" duration-ms="190">
+    <groups>
+    </groups>
+    <test started-at="2023-11-30T16:30:07 IST" name="Default test" finished-at="2023-11-30T16:30:07 IST" duration-ms="190">
+      <class name="annotations.Annotations">
+        <test-method is-config="true" signature="rambo()[pri:0, instance:annotations.Annotations@35047d03]" started-at="2023-11-30T16:30:07 IST" name="rambo" finished-at="2023-11-30T16:30:07 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rambo -->
+        <test-method is-config="true" signature="rocky()[pri:0, instance:annotations.Annotations@35047d03]" started-at="2023-11-30T16:30:07 IST" name="rocky" finished-at="2023-11-30T16:30:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rocky -->
+        <test-method is-config="true" signature="tony()[pri:0, instance:annotations.Annotations@35047d03]" started-at="2023-11-30T16:30:07 IST" name="tony" finished-at="2023-11-30T16:30:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tony -->
+        <test-method is-config="true" signature="swosti()[pri:0, instance:annotations.Annotations@35047d03]" started-at="2023-11-30T16:30:07 IST" name="swosti" finished-at="2023-11-30T16:30:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- swosti -->
+        <test-method signature="mahadev()[pri:0, instance:annotations.Annotations@35047d03]" started-at="2023-11-30T16:30:07 IST" name="mahadev" finished-at="2023-11-30T16:30:07 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mahadev -->
+        <test-method is-config="true" signature="demon()[pri:0, instance:annotations.Annotations@35047d03]" started-at="2023-11-30T16:30:07 IST" name="demon" finished-at="2023-11-30T16:30:07 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demon -->
+        <test-method is-config="true" signature="swosti()[pri:0, instance:annotations.Annotations@35047d03]" started-at="2023-11-30T16:30:07 IST" name="swosti" finished-at="2023-11-30T16:30:07 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- swosti -->
+        <test-method signature="partha()[pri:0, instance:annotations.Annotations@35047d03]" started-at="2023-11-30T16:30:07 IST" name="partha" finished-at="2023-11-30T16:30:07 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- partha -->
+        <test-method is-config="true" signature="demon()[pri:0, instance:annotations.Annotations@35047d03]" started-at="2023-11-30T16:30:07 IST" name="demon" finished-at="2023-11-30T16:30:07 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demon -->
+        <test-method is-config="true" signature="swosti()[pri:0, instance:annotations.Annotations@35047d03]" started-at="2023-11-30T16:30:07 IST" name="swosti" finished-at="2023-11-30T16:30:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- swosti -->
+        <test-method signature="soumya()[pri:0, instance:annotations.Annotations@35047d03]" started-at="2023-11-30T16:30:07 IST" name="soumya" finished-at="2023-11-30T16:30:07 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- soumya -->
+        <test-method is-config="true" signature="demon()[pri:0, instance:annotations.Annotations@35047d03]" started-at="2023-11-30T16:30:07 IST" name="demon" finished-at="2023-11-30T16:30:07 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demon -->
+        <test-method is-config="true" signature="naruto()[pri:0, instance:annotations.Annotations@35047d03]" started-at="2023-11-30T16:30:07 IST" name="naruto" finished-at="2023-11-30T16:30:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- naruto -->
+        <test-method is-config="true" signature="eagle()[pri:0, instance:annotations.Annotations@35047d03]" started-at="2023-11-30T16:30:07 IST" name="eagle" finished-at="2023-11-30T16:30:07 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eagle -->
+        <test-method is-config="true" signature="suzuke()[pri:0, instance:annotations.Annotations@35047d03]" started-at="2023-11-30T16:30:08 IST" name="suzuke" finished-at="2023-11-30T16:30:08 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suzuke -->
+      </class> <!-- annotations.Annotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

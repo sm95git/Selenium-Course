@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="verifications.HardAssertClass">
+        <methods>
+          <include name="verifyTitle"/>
+        </methods>
+      </class> <!-- verifications.HardAssertClass -->
+      <class name="practice.DependsOnMethod">
+        <methods>
+          <include name="login"/>
+          <include name="deletework"/>
+          <include name="creatework"/>
+        </methods>
+      </class> <!-- practice.DependsOnMethod -->
+      <class name="test.LoginLogout">
+        <methods>
+          <include name="executionstart"/>
+          <include name="teardown"/>
+          <include name="executioncomplete"/>
+          <include name="logintoapp"/>
+          <include name="logoutfromapp"/>
+          <include name="setup"/>
+          <include name="login"/>
+        </methods>
+      </class> <!-- test.LoginLogout -->
+      <class name="verifications.SoftAssertClass">
+        <methods>
+          <include name="verifyTitle"/>
+        </methods>
+      </class> <!-- verifications.SoftAssertClass -->
+      <class name="test.CreateTypeofWork">
+        <methods>
+          <include name="executionstart"/>
+          <include name="teardown"/>
+          <include name="loginmethod"/>
+          <include name="executioncomplete"/>
+          <include name="logintoapp"/>
+          <include name="logoutfromapp"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- test.CreateTypeofWork -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
